@@ -1,3 +1,3 @@
-# Primero
-first project
-messing around with things
+# Aura Monster 
+Aura monster repository
+coming soon
