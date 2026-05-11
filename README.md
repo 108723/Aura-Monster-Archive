@@ -1,3 +1,1 @@
-# Aura Monster 
-Aura monster repository
-WIP
+# Aura Monster Lore Explanation
